@@ -57,7 +57,7 @@ public class SalesTransaction {
 		return transactionType;
 	}
 
-	/**
+	/**.
 	 * This method will obtain the dollar amount for the transaction.
 	 * 
 	 * @return the transactionAmount This si the dollar amount of the
