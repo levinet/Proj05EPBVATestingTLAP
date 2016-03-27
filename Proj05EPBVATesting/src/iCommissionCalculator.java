@@ -48,7 +48,7 @@ public interface iCommissionCalculator {
 	public abstract void setEmployeeExperience(int employeeExperience);
 	
 	
-	/**.
+	/**..
 	 * This method will calculate the commission based upon the sales that have occurred.
 	 * @return The total commission will be returned based on the commission formula.
 	 */

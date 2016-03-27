@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * This class will handle the calculatioon of employee commissions.
- * .
+ * ..
  * 
  */
 public class CommissionCalculator implements iCommissionCalculator {
